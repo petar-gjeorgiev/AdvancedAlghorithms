@@ -99,7 +99,6 @@ public class BiggestSet {
 			System.out.println(max);
 
 		}
-
 		br.close();
 	}
 
